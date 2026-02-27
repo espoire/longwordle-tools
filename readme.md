@@ -1,0 +1,2 @@
+A collection of tool functions for solving Longwordle, the daily guess-the-10-letter-word game based on Wordle, available at https://mortusnegati.itch.io/longwordle.
+Intended for ~manual (edit main.js to make selections) execution in Node.js.
